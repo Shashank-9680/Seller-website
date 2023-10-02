@@ -1,0 +1,41 @@
+.name-date {
+  display: flex;
+  justify-content: space-between;
+}
+.info-container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+.people-petrol {
+  display: flex;
+  gap: 5rem;
+}
+
+.km-auto {
+  display: flex;
+  gap: 3rem;
+}
+.line {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  border: 0.01em solid black;
+  margin-bottom: 1rem;
+}
+.price-rent {
+  display: flex;
+  justify-content: space-between;
+}
+.icon-rent {
+  display: flex;
+  gap: 1rem;
+}
+.title {
+  border: 2px dotted #87ceeb;
+  border-radius: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
